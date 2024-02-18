@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ds_sdk"
+name = "gadget"
 version = "0.0.1-rc"
 description = ""
 authors = ["Ds Team <ds@team.com>"]
